@@ -39,8 +39,10 @@ fadeOut() function can have attributed like 2000 for 2 seconds, fast or slow
 AnimatingContent
 ----
 *Quite Useful*
+
 Use animate with parameters being a dimension, and the second parameter being a time for it to complete. 
-	$(this).animate({
+	
+		$(this).animate({
 		width:"600px",
 		height:"600px",
 		borderRadius:"100px",
