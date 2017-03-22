@@ -1,4 +1,4 @@
-This is the JQuery Section
+This is the *JQuery* Section
 
 March 22, 2017
 
