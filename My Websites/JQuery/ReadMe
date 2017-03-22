@@ -15,3 +15,17 @@ ChangingWebsiteContent.html
 Using Jquery, we are able to change the image or website it the page.
 In this case, the iframe was embedded into the webpage, then, using jQuery, and hovering over an element the source of this iframe was updated to a new one
 
+Will become a heading
+==============
+
+Will become a sub heading
+--------------
+
+*This will be Italic*
+
+**This will be Bold**
+
+- This will be a list item
+- This will be a list item
+
+    Add a indent and this will end up as code
