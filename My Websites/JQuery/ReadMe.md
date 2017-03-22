@@ -8,6 +8,8 @@ Embedding JQuery:
 In this section, download the JQuery file, and can be embedded with javascript in the HTML file
 The file will need to be either downloaded from the JQuery website or linked to the most recent
 
+	 <script type="text/javascript" src="jquery.min.js"></script>
+
 DetectingAClick.html
 -----
 Added the ability to use JQuery as a way to interact with the elements on screen. 
