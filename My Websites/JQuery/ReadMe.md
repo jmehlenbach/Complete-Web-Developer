@@ -21,3 +21,29 @@ ChangingWebsiteContent.html
 Using Jquery, we are able to change the image or website it the page.
 In this case, the iframe was embedded into the webpage, then, using jQuery, and hovering over an element the source of this iframe was updated to a new one
 
+ChangingStyles.html
+----
+Using some JQuery commands we can change it so that when say the circle is clicked, the square will fade out. 
+This section changes CSS properties. 
+- Updates the width of the circle
+- Fades out the squares
+
+Useful to change the element to either remove it or fade out then remove it. 
+	$(this).hide();
+	$(this).fadeOut();
+	
+FadingContent
+----
+fadeOut() function can have attributed like 2000 for 2 seconds, fast or slow
+
+AnimatingContent
+----
+*Quite Useful*
+Use animate with parameters being a dimension, and the second parameter being a time for it to complete. 
+	$(this).animate({
+		width:"600px",
+		height:"600px",
+		borderRadius:"100px",
+		marginLeft:"100px",
+		marginTop:"100px"
+		},3000);
